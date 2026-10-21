@@ -1,0 +1,127 @@
+{
+  "source": "511 câu hỏi trắc nghiệm triết học.pdf",
+  "sourceSha256": "c72a6b2b09149998b9cb8a4befd2ca05bc25921fdb557cbb44b2f03110c6e7c9",
+  "pages": 113,
+  "totalQuestions": 511,
+  "chapterCounts": {
+    "1": 168,
+    "2": 155,
+    "3": 188
+  },
+  "answerRowCount": 511,
+  "uniqueAnswerCount": 510,
+  "strictValid": true,
+  "playableCount": 511,
+  "excludedIds": [],
+  "issues": [
+    {
+      "code": "question_label",
+      "severity": "info",
+      "id": "chuong1-cau86",
+      "pages": [
+        19
+      ],
+      "message": "Nhãn câu không có dấu ':' hoặc '.'; nhận diện theo số câu, giữ nguyên nội dung."
+    },
+    {
+      "code": "user_correction",
+      "severity": "info",
+      "id": "chuong2-cau88",
+      "pages": [
+        55
+      ],
+      "message": "Câu này chỉ có ba lựa chọn A/B/C; không có và không thêm D."
+    },
+    {
+      "code": "user_correction",
+      "severity": "info",
+      "id": "chuong3-cau157",
+      "pages": [
+        104
+      ],
+      "message": "Bổ sung B theo đính chính của người dùng; bảng PDF không ghi nhãn 157."
+    },
+    {
+      "code": "user_correction",
+      "severity": "info",
+      "id": "chuong3-cau167",
+      "pages": [
+        106
+      ],
+      "message": "Người dùng xác nhận B; giữ nguyên hai dòng mang nhãn 167 trong bằng chứng PDF."
+    },
+    {
+      "code": "user_correction",
+      "severity": "info",
+      "id": "chuong1-cau62",
+      "pages": [
+        14
+      ],
+      "message": "Giữ nguyên A/B trùng nội dung theo xác nhận của người dùng."
+    }
+  ],
+  "checks": {
+    "total511": true,
+    "uniqueIds": true,
+    "fourOptions": false,
+    "validAnswers": true,
+    "chapterTablesAgree": true,
+    "approvedOptionSets": true,
+    "answersMatchSourceOrCorrection": true
+  },
+  "chapters": {
+    "1": {
+      "title": "CHƯƠNG 1: KHÁI LƯỢC VỀ TRIẾT HỌC VÀ TRIẾT HỌC MÁC – LÊNIN",
+      "expected": 168,
+      "answerPages": [
+        37,
+        38
+      ]
+    },
+    "2": {
+      "title": "CHƯƠNG 2: CHỦ NGHĨA DUY VẬT BIỆN CHỨNG",
+      "expected": 155,
+      "answerPages": [
+        70,
+        71
+      ]
+    },
+    "3": {
+      "title": "CHƯƠNG 3: CHỦ NGHĨA DUY VẬT LỊCH SỬ",
+      "expected": 188,
+      "answerPages": [
+        112,
+        113
+      ]
+    }
+  },
+  "sourcePdfStrictValid": false,
+  "validationBasis": "PDF gốc + đính chính trực tiếp của người dùng trong data/corrections.json",
+  "userCorrections": {
+    "sourceSha256": "c72a6b2b09149998b9cb8a4befd2ca05bc25921fdb557cbb44b2f03110c6e7c9",
+    "confirmedBy": "Người dùng xác nhận trực tiếp trong cuộc trò chuyện ngày 21/10/2026",
+    "questions": {
+      "chuong2-cau88": {
+        "optionKeys": [
+          "A",
+          "B",
+          "C"
+        ],
+        "correctAnswer": "C",
+        "note": "Câu này chỉ có ba lựa chọn A/B/C; không có và không thêm D."
+      },
+      "chuong3-cau157": {
+        "correctAnswer": "B",
+        "note": "Bổ sung B theo đính chính của người dùng; bảng PDF không ghi nhãn 157."
+      },
+      "chuong3-cau167": {
+        "correctAnswer": "B",
+        "note": "Người dùng xác nhận B; giữ nguyên hai dòng mang nhãn 167 trong bằng chứng PDF."
+      },
+      "chuong1-cau62": {
+        "allowIdenticalOptions": true,
+        "note": "Giữ nguyên A/B trùng nội dung theo xác nhận của người dùng."
+      }
+    }
+  }
+}

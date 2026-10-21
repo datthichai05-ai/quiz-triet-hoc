@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#244c40">
+  <meta name="description" content="Ôn tập Triết học Mác – Lênin với ngân hàng 511 câu hỏi: luyện tập, thi thử, ôn lại câu sai và lưu tiến độ trên trình duyệt.">
+  <title>Ôn tập Triết học Mác – Lênin</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Bỏ qua đến nội dung</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="Triết học, về trang chủ"><span class="brand-icon" aria-hidden="true">φ</span><span>triết học<span class="brand-dot">.</span></span></a>
+      <nav class="top-nav" aria-label="Điều hướng chính">
+        <button type="button" data-action="home" aria-current="page" disabled>Tổng quan</button>
+        <button type="button" data-action="review" disabled>Câu cần ôn <span id="nav-review-count" class="nav-count">0</span></button>
+        <button type="button" data-action="history" disabled>Lịch sử</button>
+      </nav>
+      <span class="local-label"><span></span>Không gian tự học</span>
+    </div>
+  </header>
+  <div id="storage-warning" class="notice global-notice" role="status" hidden></div>
+  <main id="main" tabindex="-1"><div class="loading"><span class="spinner" aria-hidden="true"></span><h1>Đang mở ngân hàng câu hỏi…</h1><p>Một chút chuẩn bị cho buổi học của bạn.</p></div></main>
+  <footer class="site-footer"><span>Học từng chút. Hiểu thêm mỗi ngày.</span><span>Tiến độ lưu riêng trên trình duyệt của bạn <span aria-hidden="true">↗</span></span></footer>
+  <div id="announcer" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+  <dialog id="confirm-dialog" aria-labelledby="dialog-title" aria-describedby="dialog-description">
+    <form method="dialog"><span class="eyebrow">XÁC NHẬN</span><h2 id="dialog-title"></h2><p id="dialog-description"></p><div class="dialog-actions"><button value="cancel" class="button secondary">Tiếp tục làm</button><button value="confirm" id="dialog-confirm" class="button primary">Nộp bài</button></div></form>
+  </dialog>
+  <noscript><p class="notice">Vui lòng bật JavaScript để tải câu hỏi và làm bài.</p></noscript>
+</body>
+</html>

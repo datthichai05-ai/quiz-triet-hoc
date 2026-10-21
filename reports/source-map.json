@@ -1,0 +1,4707 @@
+{
+  "sourceSha256": "c72a6b2b09149998b9cb8a4befd2ca05bc25921fdb557cbb44b2f03110c6e7c9",
+  "questionPages": {
+    "chuong1-cau1": [
+      2
+    ],
+    "chuong1-cau2": [
+      2
+    ],
+    "chuong1-cau3": [
+      2
+    ],
+    "chuong1-cau4": [
+      2
+    ],
+    "chuong1-cau5": [
+      2
+    ],
+    "chuong1-cau6": [
+      2,
+      3
+    ],
+    "chuong1-cau7": [
+      3
+    ],
+    "chuong1-cau8": [
+      3
+    ],
+    "chuong1-cau9": [
+      3
+    ],
+    "chuong1-cau10": [
+      3
+    ],
+    "chuong1-cau11": [
+      3
+    ],
+    "chuong1-cau12": [
+      3,
+      4
+    ],
+    "chuong1-cau13": [
+      4
+    ],
+    "chuong1-cau14": [
+      4
+    ],
+    "chuong1-cau15": [
+      4
+    ],
+    "chuong1-cau16": [
+      4
+    ],
+    "chuong1-cau17": [
+      5
+    ],
+    "chuong1-cau18": [
+      5
+    ],
+    "chuong1-cau19": [
+      5
+    ],
+    "chuong1-cau20": [
+      5
+    ],
+    "chuong1-cau21": [
+      5
+    ],
+    "chuong1-cau22": [
+      5,
+      6
+    ],
+    "chuong1-cau23": [
+      6
+    ],
+    "chuong1-cau24": [
+      6
+    ],
+    "chuong1-cau25": [
+      6
+    ],
+    "chuong1-cau26": [
+      6
+    ],
+    "chuong1-cau27": [
+      6
+    ],
+    "chuong1-cau28": [
+      6,
+      7
+    ],
+    "chuong1-cau29": [
+      7
+    ],
+    "chuong1-cau30": [
+      7
+    ],
+    "chuong1-cau31": [
+      7
+    ],
+    "chuong1-cau32": [
+      7
+    ],
+    "chuong1-cau33": [
+      7,
+      8
+    ],
+    "chuong1-cau34": [
+      8
+    ],
+    "chuong1-cau35": [
+      8
+    ],
+    "chuong1-cau36": [
+      8
+    ],
+    "chuong1-cau37": [
+      8
+    ],
+    "chuong1-cau38": [
+      8,
+      9
+    ],
+    "chuong1-cau39": [
+      9
+    ],
+    "chuong1-cau40": [
+      9
+    ],
+    "chuong1-cau41": [
+      9
+    ],
+    "chuong1-cau42": [
+      9
+    ],
+    "chuong1-cau43": [
+      10
+    ],
+    "chuong1-cau44": [
+      10
+    ],
+    "chuong1-cau45": [
+      10
+    ],
+    "chuong1-cau46": [
+      10
+    ],
+    "chuong1-cau47": [
+      10,
+      11
+    ],
+    "chuong1-cau48": [
+      11
+    ],
+    "chuong1-cau49": [
+      11
+    ],
+    "chuong1-cau50": [
+      11
+    ],
+    "chuong1-cau51": [
+      11,
+      12
+    ],
+    "chuong1-cau52": [
+      12
+    ],
+    "chuong1-cau53": [
+      12
+    ],
+    "chuong1-cau54": [
+      12
+    ],
+    "chuong1-cau55": [
+      12
+    ],
+    "chuong1-cau56": [
+      12,
+      13
+    ],
+    "chuong1-cau57": [
+      13
+    ],
+    "chuong1-cau58": [
+      13
+    ],
+    "chuong1-cau59": [
+      13
+    ],
+    "chuong1-cau60": [
+      13,
+      14
+    ],
+    "chuong1-cau61": [
+      14
+    ],
+    "chuong1-cau62": [
+      14
+    ],
+    "chuong1-cau63": [
+      14
+    ],
+    "chuong1-cau64": [
+      14
+    ],
+    "chuong1-cau65": [
+      14
+    ],
+    "chuong1-cau66": [
+      15
+    ],
+    "chuong1-cau67": [
+      15
+    ],
+    "chuong1-cau68": [
+      15
+    ],
+    "chuong1-cau69": [
+      15
+    ],
+    "chuong1-cau70": [
+      15
+    ],
+    "chuong1-cau71": [
+      15,
+      16
+    ],
+    "chuong1-cau72": [
+      16
+    ],
+    "chuong1-cau73": [
+      16
+    ],
+    "chuong1-cau74": [
+      16
+    ],
+    "chuong1-cau75": [
+      16,
+      17
+    ],
+    "chuong1-cau76": [
+      17
+    ],
+    "chuong1-cau77": [
+      17
+    ],
+    "chuong1-cau78": [
+      17
+    ],
+    "chuong1-cau79": [
+      17
+    ],
+    "chuong1-cau80": [
+      17,
+      18
+    ],
+    "chuong1-cau81": [
+      18
+    ],
+    "chuong1-cau82": [
+      18
+    ],
+    "chuong1-cau83": [
+      18
+    ],
+    "chuong1-cau84": [
+      18,
+      19
+    ],
+    "chuong1-cau85": [
+      19
+    ],
+    "chuong1-cau86": [
+      19
+    ],
+    "chuong1-cau87": [
+      19
+    ],
+    "chuong1-cau88": [
+      19
+    ],
+    "chuong1-cau89": [
+      19,
+      20
+    ],
+    "chuong1-cau90": [
+      20
+    ],
+    "chuong1-cau91": [
+      20
+    ],
+    "chuong1-cau92": [
+      20
+    ],
+    "chuong1-cau93": [
+      20
+    ],
+    "chuong1-cau94": [
+      20,
+      21
+    ],
+    "chuong1-cau95": [
+      21
+    ],
+    "chuong1-cau96": [
+      21
+    ],
+    "chuong1-cau97": [
+      21
+    ],
+    "chuong1-cau98": [
+      21,
+      22
+    ],
+    "chuong1-cau99": [
+      22
+    ],
+    "chuong1-cau100": [
+      22
+    ],
+    "chuong1-cau101": [
+      22
+    ],
+    "chuong1-cau102": [
+      22
+    ],
+    "chuong1-cau103": [
+      22,
+      23
+    ],
+    "chuong1-cau104": [
+      23
+    ],
+    "chuong1-cau105": [
+      23
+    ],
+    "chuong1-cau106": [
+      23
+    ],
+    "chuong1-cau107": [
+      23
+    ],
+    "chuong1-cau108": [
+      23,
+      24
+    ],
+    "chuong1-cau109": [
+      24
+    ],
+    "chuong1-cau110": [
+      24
+    ],
+    "chuong1-cau111": [
+      24
+    ],
+    "chuong1-cau112": [
+      24
+    ],
+    "chuong1-cau113": [
+      24
+    ],
+    "chuong1-cau114": [
+      25
+    ],
+    "chuong1-cau115": [
+      25
+    ],
+    "chuong1-cau116": [
+      25
+    ],
+    "chuong1-cau117": [
+      25
+    ],
+    "chuong1-cau118": [
+      25,
+      26
+    ],
+    "chuong1-cau119": [
+      26
+    ],
+    "chuong1-cau120": [
+      26
+    ],
+    "chuong1-cau121": [
+      26
+    ],
+    "chuong1-cau122": [
+      26
+    ],
+    "chuong1-cau123": [
+      26,
+      27
+    ],
+    "chuong1-cau124": [
+      27
+    ],
+    "chuong1-cau125": [
+      27
+    ],
+    "chuong1-cau126": [
+      27
+    ],
+    "chuong1-cau127": [
+      27
+    ],
+    "chuong1-cau128": [
+      27,
+      28
+    ],
+    "chuong1-cau129": [
+      28
+    ],
+    "chuong1-cau130": [
+      28
+    ],
+    "chuong1-cau131": [
+      28
+    ],
+    "chuong1-cau132": [
+      28
+    ],
+    "chuong1-cau133": [
+      28,
+      29
+    ],
+    "chuong1-cau134": [
+      29
+    ],
+    "chuong1-cau135": [
+      29
+    ],
+    "chuong1-cau136": [
+      29
+    ],
+    "chuong1-cau137": [
+      29
+    ],
+    "chuong1-cau138": [
+      29,
+      30
+    ],
+    "chuong1-cau139": [
+      30
+    ],
+    "chuong1-cau140": [
+      30
+    ],
+    "chuong1-cau141": [
+      30
+    ],
+    "chuong1-cau142": [
+      31
+    ],
+    "chuong1-cau143": [
+      31
+    ],
+    "chuong1-cau144": [
+      31
+    ],
+    "chuong1-cau145": [
+      31
+    ],
+    "chuong1-cau146": [
+      31
+    ],
+    "chuong1-cau147": [
+      32
+    ],
+    "chuong1-cau148": [
+      32
+    ],
+    "chuong1-cau149": [
+      32
+    ],
+    "chuong1-cau150": [
+      32
+    ],
+    "chuong1-cau151": [
+      32
+    ],
+    "chuong1-cau152": [
+      32,
+      33
+    ],
+    "chuong1-cau153": [
+      33
+    ],
+    "chuong1-cau154": [
+      33
+    ],
+    "chuong1-cau155": [
+      33
+    ],
+    "chuong1-cau156": [
+      33
+    ],
+    "chuong1-cau157": [
+      33
+    ],
+    "chuong1-cau158": [
+      33,
+      34
+    ],
+    "chuong1-cau159": [
+      34
+    ],
+    "chuong1-cau160": [
+      34
+    ],
+    "chuong1-cau161": [
+      34
+    ],
+    "chuong1-cau162": [
+      34
+    ],
+    "chuong1-cau163": [
+      34,
+      35
+    ],
+    "chuong1-cau164": [
+      35
+    ],
+    "chuong1-cau165": [
+      35
+    ],
+    "chuong1-cau166": [
+      35
+    ],
+    "chuong1-cau167": [
+      35
+    ],
+    "chuong1-cau168": [
+      35,
+      36
+    ],
+    "chuong2-cau1": [
+      39
+    ],
+    "chuong2-cau2": [
+      39
+    ],
+    "chuong2-cau3": [
+      39
+    ],
+    "chuong2-cau4": [
+      39
+    ],
+    "chuong2-cau5": [
+      39
+    ],
+    "chuong2-cau6": [
+      40
+    ],
+    "chuong2-cau7": [
+      40
+    ],
+    "chuong2-cau8": [
+      40
+    ],
+    "chuong2-cau9": [
+      40
+    ],
+    "chuong2-cau10": [
+      40
+    ],
+    "chuong2-cau11": [
+      40,
+      41
+    ],
+    "chuong2-cau12": [
+      41
+    ],
+    "chuong2-cau13": [
+      41
+    ],
+    "chuong2-cau14": [
+      41
+    ],
+    "chuong2-cau15": [
+      41
+    ],
+    "chuong2-cau16": [
+      41,
+      42
+    ],
+    "chuong2-cau17": [
+      42
+    ],
+    "chuong2-cau18": [
+      42
+    ],
+    "chuong2-cau19": [
+      42
+    ],
+    "chuong2-cau20": [
+      42
+    ],
+    "chuong2-cau21": [
+      42
+    ],
+    "chuong2-cau22": [
+      43
+    ],
+    "chuong2-cau23": [
+      43
+    ],
+    "chuong2-cau24": [
+      43
+    ],
+    "chuong2-cau25": [
+      43
+    ],
+    "chuong2-cau26": [
+      43
+    ],
+    "chuong2-cau27": [
+      44
+    ],
+    "chuong2-cau28": [
+      44
+    ],
+    "chuong2-cau29": [
+      44
+    ],
+    "chuong2-cau30": [
+      44
+    ],
+    "chuong2-cau31": [
+      44
+    ],
+    "chuong2-cau32": [
+      45
+    ],
+    "chuong2-cau33": [
+      45
+    ],
+    "chuong2-cau34": [
+      45
+    ],
+    "chuong2-cau35": [
+      45
+    ],
+    "chuong2-cau36": [
+      45
+    ],
+    "chuong2-cau37": [
+      46
+    ],
+    "chuong2-cau38": [
+      46
+    ],
+    "chuong2-cau39": [
+      46
+    ],
+    "chuong2-cau40": [
+      46
+    ],
+    "chuong2-cau41": [
+      46
+    ],
+    "chuong2-cau42": [
+      46,
+      47
+    ],
+    "chuong2-cau43": [
+      47
+    ],
+    "chuong2-cau44": [
+      47
+    ],
+    "chuong2-cau45": [
+      47
+    ],
+    "chuong2-cau46": [
+      47
+    ],
+    "chuong2-cau47": [
+      47,
+      48
+    ],
+    "chuong2-cau48": [
+      48
+    ],
+    "chuong2-cau49": [
+      48
+    ],
+    "chuong2-cau50": [
+      48
+    ],
+    "chuong2-cau51": [
+      48
+    ],
+    "chuong2-cau52": [
+      48
+    ],
+    "chuong2-cau53": [
+      49
+    ],
+    "chuong2-cau54": [
+      49
+    ],
+    "chuong2-cau55": [
+      49
+    ],
+    "chuong2-cau56": [
+      49
+    ],
+    "chuong2-cau57": [
+      49
+    ],
+    "chuong2-cau58": [
+      50
+    ],
+    "chuong2-cau59": [
+      50
+    ],
+    "chuong2-cau60": [
+      50
+    ],
+    "chuong2-cau61": [
+      50
+    ],
+    "chuong2-cau62": [
+      50
+    ],
+    "chuong2-cau63": [
+      51
+    ],
+    "chuong2-cau64": [
+      51
+    ],
+    "chuong2-cau65": [
+      51
+    ],
+    "chuong2-cau66": [
+      51
+    ],
+    "chuong2-cau67": [
+      51
+    ],
+    "chuong2-cau68": [
+      51,
+      52
+    ],
+    "chuong2-cau69": [
+      52
+    ],
+    "chuong2-cau70": [
+      52
+    ],
+    "chuong2-cau71": [
+      52
+    ],
+    "chuong2-cau72": [
+      52
+    ],
+    "chuong2-cau73": [
+      52,
+      53
+    ],
+    "chuong2-cau74": [
+      53
+    ],
+    "chuong2-cau75": [
+      53
+    ],
+    "chuong2-cau76": [
+      53
+    ],
+    "chuong2-cau77": [
+      53
+    ],
+    "chuong2-cau78": [
+      53,
+      54
+    ],
+    "chuong2-cau79": [
+      54
+    ],
+    "chuong2-cau80": [
+      54
+    ],
+    "chuong2-cau81": [
+      54
+    ],
+    "chuong2-cau82": [
+      54
+    ],
+    "chuong2-cau83": [
+      54
+    ],
+    "chuong2-cau84": [
+      54,
+      55
+    ],
+    "chuong2-cau85": [
+      55
+    ],
+    "chuong2-cau86": [
+      55
+    ],
+    "chuong2-cau87": [
+      55
+    ],
+    "chuong2-cau88": [
+      55
+    ],
+    "chuong2-cau89": [
+      55,
+      56
+    ],
+    "chuong2-cau90": [
+      56
+    ],
+    "chuong2-cau91": [
+      56
+    ],
+    "chuong2-cau92": [
+      56
+    ],
+    "chuong2-cau93": [
+      56
+    ],
+    "chuong2-cau94": [
+      57
+    ],
+    "chuong2-cau95": [
+      57
+    ],
+    "chuong2-cau96": [
+      57
+    ],
+    "chuong2-cau97": [
+      57
+    ],
+    "chuong2-cau98": [
+      57
+    ],
+    "chuong2-cau99": [
+      58
+    ],
+    "chuong2-cau100": [
+      58
+    ],
+    "chuong2-cau101": [
+      58
+    ],
+    "chuong2-cau102": [
+      58
+    ],
+    "chuong2-cau103": [
+      58
+    ],
+    "chuong2-cau104": [
+      58,
+      59
+    ],
+    "chuong2-cau105": [
+      59
+    ],
+    "chuong2-cau106": [
+      59
+    ],
+    "chuong2-cau107": [
+      59
+    ],
+    "chuong2-cau108": [
+      59
+    ],
+    "chuong2-cau109": [
+      59,
+      60
+    ],
+    "chuong2-cau110": [
+      60
+    ],
+    "chuong2-cau111": [
+      60
+    ],
+    "chuong2-cau112": [
+      60
+    ],
+    "chuong2-cau113": [
+      60
+    ],
+    "chuong2-cau114": [
+      60,
+      61
+    ],
+    "chuong2-cau115": [
+      61
+    ],
+    "chuong2-cau116": [
+      61
+    ],
+    "chuong2-cau117": [
+      61
+    ],
+    "chuong2-cau118": [
+      61
+    ],
+    "chuong2-cau119": [
+      62
+    ],
+    "chuong2-cau120": [
+      62
+    ],
+    "chuong2-cau121": [
+      62
+    ],
+    "chuong2-cau122": [
+      62
+    ],
+    "chuong2-cau123": [
+      62,
+      63
+    ],
+    "chuong2-cau124": [
+      63
+    ],
+    "chuong2-cau125": [
+      63
+    ],
+    "chuong2-cau126": [
+      63
+    ],
+    "chuong2-cau127": [
+      63
+    ],
+    "chuong2-cau128": [
+      63,
+      64
+    ],
+    "chuong2-cau129": [
+      64
+    ],
+    "chuong2-cau130": [
+      64
+    ],
+    "chuong2-cau131": [
+      64
+    ],
+    "chuong2-cau132": [
+      64,
+      65
+    ],
+    "chuong2-cau133": [
+      65
+    ],
+    "chuong2-cau134": [
+      65
+    ],
+    "chuong2-cau135": [
+      65
+    ],
+    "chuong2-cau136": [
+      65
+    ],
+    "chuong2-cau137": [
+      65
+    ],
+    "chuong2-cau138": [
+      65,
+      66
+    ],
+    "chuong2-cau139": [
+      66
+    ],
+    "chuong2-cau140": [
+      66
+    ],
+    "chuong2-cau141": [
+      66
+    ],
+    "chuong2-cau142": [
+      66
+    ],
+    "chuong2-cau143": [
+      66,
+      67
+    ],
+    "chuong2-cau144": [
+      67
+    ],
+    "chuong2-cau145": [
+      67
+    ],
+    "chuong2-cau146": [
+      67
+    ],
+    "chuong2-cau147": [
+      67
+    ],
+    "chuong2-cau148": [
+      67,
+      68
+    ],
+    "chuong2-cau149": [
+      68
+    ],
+    "chuong2-cau150": [
+      68
+    ],
+    "chuong2-cau151": [
+      68
+    ],
+    "chuong2-cau152": [
+      68
+    ],
+    "chuong2-cau153": [
+      68,
+      69
+    ],
+    "chuong2-cau154": [
+      69
+    ],
+    "chuong2-cau155": [
+      69
+    ],
+    "chuong3-cau1": [
+      72
+    ],
+    "chuong3-cau2": [
+      72
+    ],
+    "chuong3-cau3": [
+      72
+    ],
+    "chuong3-cau4": [
+      72
+    ],
+    "chuong3-cau5": [
+      72
+    ],
+    "chuong3-cau6": [
+      72,
+      73
+    ],
+    "chuong3-cau7": [
+      73
+    ],
+    "chuong3-cau8": [
+      73
+    ],
+    "chuong3-cau9": [
+      73
+    ],
+    "chuong3-cau10": [
+      73
+    ],
+    "chuong3-cau11": [
+      73
+    ],
+    "chuong3-cau12": [
+      74
+    ],
+    "chuong3-cau13": [
+      74
+    ],
+    "chuong3-cau14": [
+      74
+    ],
+    "chuong3-cau15": [
+      74
+    ],
+    "chuong3-cau16": [
+      74
+    ],
+    "chuong3-cau17": [
+      74,
+      75
+    ],
+    "chuong3-cau18": [
+      75
+    ],
+    "chuong3-cau19": [
+      75
+    ],
+    "chuong3-cau20": [
+      75
+    ],
+    "chuong3-cau21": [
+      75
+    ],
+    "chuong3-cau22": [
+      75
+    ],
+    "chuong3-cau23": [
+      76
+    ],
+    "chuong3-cau24": [
+      76
+    ],
+    "chuong3-cau25": [
+      76
+    ],
+    "chuong3-cau26": [
+      76
+    ],
+    "chuong3-cau27": [
+      76,
+      77
+    ],
+    "chuong3-cau28": [
+      77
+    ],
+    "chuong3-cau29": [
+      77
+    ],
+    "chuong3-cau30": [
+      77
+    ],
+    "chuong3-cau31": [
+      77,
+      78
+    ],
+    "chuong3-cau32": [
+      78
+    ],
+    "chuong3-cau33": [
+      78
+    ],
+    "chuong3-cau34": [
+      78
+    ],
+    "chuong3-cau35": [
+      78,
+      79
+    ],
+    "chuong3-cau36": [
+      79
+    ],
+    "chuong3-cau37": [
+      79
+    ],
+    "chuong3-cau38": [
+      79
+    ],
+    "chuong3-cau39": [
+      79
+    ],
+    "chuong3-cau40": [
+      79,
+      80
+    ],
+    "chuong3-cau41": [
+      80
+    ],
+    "chuong3-cau42": [
+      80
+    ],
+    "chuong3-cau43": [
+      80
+    ],
+    "chuong3-cau44": [
+      80,
+      81
+    ],
+    "chuong3-cau45": [
+      81
+    ],
+    "chuong3-cau46": [
+      81
+    ],
+    "chuong3-cau47": [
+      81
+    ],
+    "chuong3-cau48": [
+      81,
+      82
+    ],
+    "chuong3-cau49": [
+      82
+    ],
+    "chuong3-cau50": [
+      82
+    ],
+    "chuong3-cau51": [
+      82
+    ],
+    "chuong3-cau52": [
+      82
+    ],
+    "chuong3-cau53": [
+      83
+    ],
+    "chuong3-cau54": [
+      83
+    ],
+    "chuong3-cau55": [
+      83
+    ],
+    "chuong3-cau56": [
+      83
+    ],
+    "chuong3-cau57": [
+      83,
+      84
+    ],
+    "chuong3-cau58": [
+      84
+    ],
+    "chuong3-cau59": [
+      84
+    ],
+    "chuong3-cau60": [
+      84
+    ],
+    "chuong3-cau61": [
+      84
+    ],
+    "chuong3-cau62": [
+      84,
+      85
+    ],
+    "chuong3-cau63": [
+      85
+    ],
+    "chuong3-cau64": [
+      85
+    ],
+    "chuong3-cau65": [
+      85
+    ],
+    "chuong3-cau66": [
+      85
+    ],
+    "chuong3-cau67": [
+      85,
+      86
+    ],
+    "chuong3-cau68": [
+      86
+    ],
+    "chuong3-cau69": [
+      86
+    ],
+    "chuong3-cau70": [
+      86
+    ],
+    "chuong3-cau71": [
+      86
+    ],
+    "chuong3-cau72": [
+      87
+    ],
+    "chuong3-cau73": [
+      87
+    ],
+    "chuong3-cau74": [
+      87
+    ],
+    "chuong3-cau75": [
+      87
+    ],
+    "chuong3-cau76": [
+      87,
+      88
+    ],
+    "chuong3-cau77": [
+      88
+    ],
+    "chuong3-cau78": [
+      88
+    ],
+    "chuong3-cau79": [
+      88
+    ],
+    "chuong3-cau80": [
+      88
+    ],
+    "chuong3-cau81": [
+      88,
+      89
+    ],
+    "chuong3-cau82": [
+      89
+    ],
+    "chuong3-cau83": [
+      89
+    ],
+    "chuong3-cau84": [
+      89
+    ],
+    "chuong3-cau85": [
+      89
+    ],
+    "chuong3-cau86": [
+      90
+    ],
+    "chuong3-cau87": [
+      90
+    ],
+    "chuong3-cau88": [
+      90
+    ],
+    "chuong3-cau89": [
+      90
+    ],
+    "chuong3-cau90": [
+      90,
+      91
+    ],
+    "chuong3-cau91": [
+      91
+    ],
+    "chuong3-cau92": [
+      91
+    ],
+    "chuong3-cau93": [
+      91
+    ],
+    "chuong3-cau94": [
+      91
+    ],
+    "chuong3-cau95": [
+      92
+    ],
+    "chuong3-cau96": [
+      92
+    ],
+    "chuong3-cau97": [
+      92
+    ],
+    "chuong3-cau98": [
+      92
+    ],
+    "chuong3-cau99": [
+      92,
+      93
+    ],
+    "chuong3-cau100": [
+      93
+    ],
+    "chuong3-cau101": [
+      93
+    ],
+    "chuong3-cau102": [
+      93
+    ],
+    "chuong3-cau103": [
+      93
+    ],
+    "chuong3-cau104": [
+      93,
+      94
+    ],
+    "chuong3-cau105": [
+      94
+    ],
+    "chuong3-cau106": [
+      94
+    ],
+    "chuong3-cau107": [
+      94
+    ],
+    "chuong3-cau108": [
+      94,
+      95
+    ],
+    "chuong3-cau109": [
+      95
+    ],
+    "chuong3-cau110": [
+      95
+    ],
+    "chuong3-cau111": [
+      95
+    ],
+    "chuong3-cau112": [
+      95
+    ],
+    "chuong3-cau113": [
+      95,
+      96
+    ],
+    "chuong3-cau114": [
+      96
+    ],
+    "chuong3-cau115": [
+      96
+    ],
+    "chuong3-cau116": [
+      96
+    ],
+    "chuong3-cau117": [
+      96
+    ],
+    "chuong3-cau118": [
+      96,
+      97
+    ],
+    "chuong3-cau119": [
+      97
+    ],
+    "chuong3-cau120": [
+      97
+    ],
+    "chuong3-cau121": [
+      97
+    ],
+    "chuong3-cau122": [
+      97
+    ],
+    "chuong3-cau123": [
+      97,
+      98
+    ],
+    "chuong3-cau124": [
+      98
+    ],
+    "chuong3-cau125": [
+      98
+    ],
+    "chuong3-cau126": [
+      98
+    ],
+    "chuong3-cau127": [
+      98
+    ],
+    "chuong3-cau128": [
+      98
+    ],
+    "chuong3-cau129": [
+      99
+    ],
+    "chuong3-cau130": [
+      99
+    ],
+    "chuong3-cau131": [
+      99
+    ],
+    "chuong3-cau132": [
+      99
+    ],
+    "chuong3-cau133": [
+      99
+    ],
+    "chuong3-cau134": [
+      100
+    ],
+    "chuong3-cau135": [
+      100
+    ],
+    "chuong3-cau136": [
+      100
+    ],
+    "chuong3-cau137": [
+      100
+    ],
+    "chuong3-cau138": [
+      100,
+      101
+    ],
+    "chuong3-cau139": [
+      101
+    ],
+    "chuong3-cau140": [
+      101
+    ],
+    "chuong3-cau141": [
+      101
+    ],
+    "chuong3-cau142": [
+      101
+    ],
+    "chuong3-cau143": [
+      101,
+      102
+    ],
+    "chuong3-cau144": [
+      102
+    ],
+    "chuong3-cau145": [
+      102
+    ],
+    "chuong3-cau146": [
+      102
+    ],
+    "chuong3-cau147": [
+      102
+    ],
+    "chuong3-cau148": [
+      102,
+      103
+    ],
+    "chuong3-cau149": [
+      103
+    ],
+    "chuong3-cau150": [
+      103
+    ],
+    "chuong3-cau151": [
+      103
+    ],
+    "chuong3-cau152": [
+      103
+    ],
+    "chuong3-cau153": [
+      103
+    ],
+    "chuong3-cau154": [
+      104
+    ],
+    "chuong3-cau155": [
+      104
+    ],
+    "chuong3-cau156": [
+      104
+    ],
+    "chuong3-cau157": [
+      104
+    ],
+    "chuong3-cau158": [
+      104
+    ],
+    "chuong3-cau159": [
+      104,
+      105
+    ],
+    "chuong3-cau160": [
+      105
+    ],
+    "chuong3-cau161": [
+      105
+    ],
+    "chuong3-cau162": [
+      105
+    ],
+    "chuong3-cau163": [
+      105
+    ],
+    "chuong3-cau164": [
+      105,
+      106
+    ],
+    "chuong3-cau165": [
+      106
+    ],
+    "chuong3-cau166": [
+      106
+    ],
+    "chuong3-cau167": [
+      106
+    ],
+    "chuong3-cau168": [
+      106
+    ],
+    "chuong3-cau169": [
+      107
+    ],
+    "chuong3-cau170": [
+      107
+    ],
+    "chuong3-cau171": [
+      107
+    ],
+    "chuong3-cau172": [
+      107
+    ],
+    "chuong3-cau173": [
+      107
+    ],
+    "chuong3-cau174": [
+      108
+    ],
+    "chuong3-cau175": [
+      108
+    ],
+    "chuong3-cau176": [
+      108
+    ],
+    "chuong3-cau177": [
+      108
+    ],
+    "chuong3-cau178": [
+      108
+    ],
+    "chuong3-cau179": [
+      109
+    ],
+    "chuong3-cau180": [
+      109
+    ],
+    "chuong3-cau181": [
+      109
+    ],
+    "chuong3-cau182": [
+      109
+    ],
+    "chuong3-cau183": [
+      109,
+      110
+    ],
+    "chuong3-cau184": [
+      110
+    ],
+    "chuong3-cau185": [
+      110
+    ],
+    "chuong3-cau186": [
+      110
+    ],
+    "chuong3-cau187": [
+      110
+    ],
+    "chuong3-cau188": [
+      110,
+      111
+    ]
+  },
+  "answerRows": [
+    {
+      "chapter": 1,
+      "number": 1,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 11,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 21,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 31,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 2,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 12,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 22,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 32,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 3,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 13,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 23,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 33,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 4,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 14,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 24,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 34,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 5,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 15,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 25,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 35,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 6,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 16,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 26,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 36,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 7,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 17,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 27,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 37,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 8,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 18,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 28,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 38,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 9,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 19,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 29,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 39,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 10,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 20,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 30,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 40,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 41,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 51,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 61,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 71,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 42,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 52,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 62,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 72,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 43,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 53,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 63,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 73,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 44,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 54,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 64,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 74,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 45,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 55,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 65,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 75,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 46,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 56,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 66,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 76,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 47,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 57,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 67,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 77,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 48,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 58,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 68,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 78,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 49,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 59,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 69,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 79,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 50,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 60,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 70,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 80,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 81,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 91,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 101,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 111,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 82,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 92,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 102,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 112,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 83,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 93,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 103,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 113,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 84,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 94,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 104,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 114,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 85,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 95,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 105,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 115,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 86,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 96,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 106,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 116,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 87,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 97,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 107,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 117,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 88,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 98,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 108,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 118,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 89,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 99,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 109,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 119,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 90,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 100,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 110,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 120,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 121,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 131,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 141,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 151,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 122,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 132,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 142,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 152,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 123,
+      "answer": "D",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 133,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 143,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 153,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 124,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 134,
+      "answer": "B",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 144,
+      "answer": "C",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 154,
+      "answer": "A",
+      "page": 37
+    },
+    {
+      "chapter": 1,
+      "number": 125,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 135,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 145,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 155,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 126,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 136,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 146,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 156,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 127,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 137,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 147,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 157,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 128,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 138,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 148,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 158,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 129,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 139,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 149,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 159,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 130,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 140,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 150,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 160,
+      "answer": "D",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 161,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 164,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 167,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 162,
+      "answer": "C",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 165,
+      "answer": "A",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 168,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 163,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 1,
+      "number": 166,
+      "answer": "B",
+      "page": 38
+    },
+    {
+      "chapter": 2,
+      "number": 1,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 11,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 21,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 31,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 2,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 12,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 22,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 32,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 3,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 13,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 23,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 33,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 4,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 14,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 24,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 34,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 5,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 15,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 25,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 35,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 6,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 16,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 26,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 36,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 7,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 17,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 27,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 37,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 8,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 18,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 28,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 38,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 9,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 19,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 29,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 39,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 10,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 20,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 30,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 40,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 41,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 51,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 61,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 71,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 42,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 52,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 62,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 72,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 43,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 53,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 63,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 73,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 44,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 54,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 64,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 74,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 45,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 55,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 65,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 75,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 46,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 56,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 66,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 76,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 47,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 57,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 67,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 77,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 48,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 58,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 68,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 78,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 49,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 59,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 69,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 79,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 50,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 60,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 70,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 80,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 81,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 91,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 101,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 111,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 82,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 92,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 102,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 112,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 83,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 93,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 103,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 113,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 84,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 94,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 104,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 114,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 85,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 95,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 105,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 115,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 86,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 96,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 106,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 116,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 87,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 97,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 107,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 117,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 88,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 98,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 108,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 118,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 89,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 99,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 109,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 119,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 90,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 100,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 110,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 120,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 121,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 131,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 141,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 151,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 122,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 132,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 142,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 152,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 123,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 133,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 143,
+      "answer": "C",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 153,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 124,
+      "answer": "A",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 134,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 144,
+      "answer": "D",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 154,
+      "answer": "B",
+      "page": 70
+    },
+    {
+      "chapter": 2,
+      "number": 125,
+      "answer": "D",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 135,
+      "answer": "A",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 145,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 155,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 126,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 136,
+      "answer": "A",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 146,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 127,
+      "answer": "A",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 137,
+      "answer": "D",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 147,
+      "answer": "C",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 128,
+      "answer": "A",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 138,
+      "answer": "C",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 148,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 129,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 139,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 149,
+      "answer": "B",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 130,
+      "answer": "D",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 140,
+      "answer": "D",
+      "page": 71
+    },
+    {
+      "chapter": 2,
+      "number": 150,
+      "answer": "C",
+      "page": 71
+    },
+    {
+      "chapter": 3,
+      "number": 1,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 16,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 31,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 46,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 2,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 17,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 32,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 47,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 3,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 18,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 33,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 48,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 4,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 19,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 34,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 49,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 5,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 20,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 35,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 50,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 6,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 21,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 36,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 51,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 7,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 22,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 37,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 52,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 8,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 23,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 38,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 53,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 9,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 24,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 39,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 54,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 10,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 25,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 40,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 55,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 11,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 26,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 41,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 56,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 12,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 27,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 42,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 57,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 13,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 28,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 43,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 58,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 14,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 29,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 44,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 59,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 15,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 30,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 45,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 60,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 61,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 86,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 111,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 136,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 62,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 87,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 112,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 137,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 63,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 88,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 113,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 138,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 64,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 89,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 114,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 139,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 65,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 90,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 115,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 140,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 66,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 91,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 116,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 141,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 67,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 92,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 117,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 142,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 68,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 93,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 118,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 143,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 69,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 94,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 119,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 144,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 70,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 95,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 120,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 145,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 71,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 96,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 121,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 146,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 72,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 97,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 122,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 147,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 73,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 98,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 123,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 148,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 74,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 99,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 124,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 149,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 75,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 100,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 125,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 150,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 76,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 101,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 126,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 151,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 77,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 102,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 127,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 152,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 78,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 103,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 128,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 153,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 79,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 104,
+      "answer": "D",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 129,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 154,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 80,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 105,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 130,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 155,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 81,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 106,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 131,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 156,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 82,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 107,
+      "answer": "A",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 132,
+      "answer": "C",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 167,
+      "answer": "B",
+      "page": 112
+    },
+    {
+      "chapter": 3,
+      "number": 83,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 108,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 133,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 158,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 84,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 109,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 134,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 159,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 85,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 110,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 135,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 160,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 161,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 166,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 171,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 176,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 162,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 167,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 172,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 177,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 163,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 168,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 173,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 178,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 164,
+      "answer": "C",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 169,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 174,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 179,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 165,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 170,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 175,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 180,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 181,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 183,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 185,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 187,
+      "answer": "A",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 182,
+      "answer": "D",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 184,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 186,
+      "answer": "B",
+      "page": 113
+    },
+    {
+      "chapter": 3,
+      "number": 188,
+      "answer": "C",
+      "page": 113
+    }
+  ],
+  "userCorrections": {
+    "sourceSha256": "c72a6b2b09149998b9cb8a4befd2ca05bc25921fdb557cbb44b2f03110c6e7c9",
+    "confirmedBy": "Người dùng xác nhận trực tiếp trong cuộc trò chuyện ngày 21/10/2026",
+    "questions": {
+      "chuong2-cau88": {
+        "optionKeys": [
+          "A",
+          "B",
+          "C"
+        ],
+        "correctAnswer": "C",
+        "note": "Câu này chỉ có ba lựa chọn A/B/C; không có và không thêm D."
+      },
+      "chuong3-cau157": {
+        "correctAnswer": "B",
+        "note": "Bổ sung B theo đính chính của người dùng; bảng PDF không ghi nhãn 157."
+      },
+      "chuong3-cau167": {
+        "correctAnswer": "B",
+        "note": "Người dùng xác nhận B; giữ nguyên hai dòng mang nhãn 167 trong bằng chứng PDF."
+      },
+      "chuong1-cau62": {
+        "allowIdenticalOptions": true,
+        "note": "Giữ nguyên A/B trùng nội dung theo xác nhận của người dùng."
+      }
+    }
+  }
+}
