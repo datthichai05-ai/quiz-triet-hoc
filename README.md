@@ -1,10 +1,10 @@
 # Ôn tập Triết học Mác – Lênin
 
-Website HTML5, CSS3 và JavaScript thuần để luyện tập, thi thử và ôn lại câu sai. Không cần build, backend, tài khoản hay cơ sở dữ liệu. Tất cả tài nguyên dùng đường dẫn tương đối, chạy được tại `https://TEN.github.io/TEN-REPO/`.
+Website HTML5, CSS3 và JavaScript thuần để luyện tập, thi thử và ôn lại câu sai.
 
 ## Trạng thái dữ liệu — đọc trước
 
-Đã trích xuất **đủ 511 câu**, đúng thứ tự: chương 1 có 168, chương 2 có 155, chương 3 có 188. Sau đính chính trực tiếp của người dùng ngày 21/10/2026, **cả 511 câu đều dùng được**.
+Đã có 511 câu, chương 1 có 168, chương 2 có 155, chương 3 có 188.
 
 | Vị trí | Xác nhận và cách xử lý |
 |---|---|
